@@ -20,6 +20,7 @@ This repository contains the source code for a simple tech company website devel
 ## How to Use
 
 1. Clone the repository to your local machine:
+
    git clone https://github.com/Shruthi018/Simple-Tech-Company-Site.git
 
 2. Open the `index.html` file in your preferred web browser to view the website locally.
