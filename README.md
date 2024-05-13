@@ -30,4 +30,6 @@ This repository contains the source code for a simple tech company website devel
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
 
-Uploading TECH video - Made with Clipchamp.mp4…
+
+https://github.com/Shruthi018/Simple-Tech-Company-Site/assets/137261316/04993f9b-ee74-4c5e-80be-36b72ab758d8
+
