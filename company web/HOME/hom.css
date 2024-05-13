@@ -1,0 +1,27 @@
+h2,h3{
+    text-align:center;
+    font-size:arial;
+}
+img{
+    width: 25%;
+    position: relative;
+    float:right;
+    right:30px;
+    top:300px;
+    position: absolute;
+    border:1px solid black;
+}
+.buts{
+        position: absolute;
+        padding: 16px;
+        bottom: 80px;
+        right: 110px;
+        background-color:rgb(146, 133, 161) ;
+        width:15%;
+      }
+      body{
+        font-style: oblique;
+        font-size: x-large;
+        color: rgb(225, 93, 11);
+      }
+      

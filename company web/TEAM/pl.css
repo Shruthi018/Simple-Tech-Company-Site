@@ -1,0 +1,23 @@
+
+.plan1{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-around;  
+    padding:30px;
+   
+}
+.project{
+    border:1px solid black;
+    text-align: center;
+    padding:20px;
+    width:290px;
+    margin:10px;
+   
+    background-color:rgb(241, 218, 216);
+}
+h4{
+    color:rgb(70, 64, 64);
+}
+p{
+    font-size:large;
+}

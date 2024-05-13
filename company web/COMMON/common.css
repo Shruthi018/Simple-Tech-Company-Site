@@ -1,0 +1,19 @@
+body{
+    background-image: url("COMPANY.png");
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+}
+
+button{
+    padding:10px;
+    width:22%;
+    background-color: aliceblue;
+
+}
+header{
+    padding:5px;
+    text-align: center;
+    background-color: aliceblue;
+}

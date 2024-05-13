@@ -1,0 +1,31 @@
+body{
+    border:1px solid black;
+    border-style: hidden;
+    padding: 20px;
+   
+}
+.lefts{
+       position: relative;
+       float: right;
+       right: 300px;
+       font-size: large;
+}
+.bus{
+    position: relative;
+       float: right;
+       right: 70px;
+       top:300px;
+}
+.bu{position: relative;
+    float:center;
+    top:400px;
+    left:200px;
+}
+rig{
+    position:absolute;
+    float: left;
+    left: 250px;
+}
+span {
+    content: "\2709";
+  }
